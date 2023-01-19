@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1344 - branch:dark - Exrement 
 =======
 13:39 - branch:"dummy" - Mama mele maso
 
 14:02 - branch:"main" - Jebat jelena
 >>>>>>> dummy
+=======
+1345 - branch:testing - Stanik
+
+1411 - branch:dummy - veverka
+>>>>>>> testing
