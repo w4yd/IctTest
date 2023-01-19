@@ -2,4 +2,6 @@
 1344 - branch:dark - Exrement 
 =======
 13:39 - branch:"dummy" - Mama mele maso
+
+14:02 - branch:"main" - Jebat jelena
 >>>>>>> dummy
